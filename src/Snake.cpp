@@ -11,7 +11,7 @@ Snake::Snake(int w, int h, int x, int y) :
     startXPos = x;
     startYPos = y;
 
-    speed = 7;
+    speed = 9;
 
     popIt = true;
 
